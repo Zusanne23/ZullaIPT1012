@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\bin\Debug\ZullaDatabase.dacpac
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\bin\Debug\ZullaDatabase.dll
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\bin\Debug\ZullaDatabase.pdb
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\obj\Debug\ZullaDatabase.sqlproj.AssemblyReference.cache
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\obj\Debug\ZullaDatabase.dll
+C:\Users\User\source\repos\ZullaDatabase\ZullaDatabase\obj\Debug\ZullaDatabase.pdb

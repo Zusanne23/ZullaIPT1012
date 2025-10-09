@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ZullaDatabase", "ZullaDatabase\ZullaDatabase.sqlproj", "{795D7FA7-F4C2-4850-B909-22425E013A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795D7FA7-F4C2-4850-B909-22425E013A04}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B06157-99A5-4934-8E47-604A20294ECD}
+	EndGlobalSection
+EndGlobal
